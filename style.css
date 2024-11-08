@@ -15,9 +15,21 @@ font-family: Bai Jamjuree;
     flex-basis: calc(33% - 0.6rem);
 }
 
+.cartao__conteudo {
+    text-align: center;
+    /* background-color: aquamarine;*/
+    height: 100%;
+}
 
-
-
+.cartao__conteudo h3 {
+    background-color: tomato;
+    text-align: left;
+    padding: 0.5rem;
+    position: absolute;
+    margin: 0.6rem;
+    border-radius: 0.6rem;
+    font-size:1vw;
+}
 
 
 
